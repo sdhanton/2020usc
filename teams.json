@@ -998,18 +998,18 @@
           "headCoach" : {
             "contractLength" : "7",
             "startYear" : "2020",
-            "age" : "67",
-            "ratOff" : "85",
+            "age" : "30",
+            "ratOff" : "95",
             "cumulativePrestige" : "95",
             "ratDef" : "95",
-            "homeState" : "Minnesota",
-            "ratPot" : "56",
+            "homeState" : "Michigan",
+            "ratPot" : "95",
             "ratTalent" : "95",
-            "baselinePrestige" : "70",
+            "baselinePrestige" : "65",
             "ratDiscipline" : "95",
-            "ratOvr" : "95",
+            "ratOvr" : "90",
             "name" : "Oliver Raymond",
-            "contractYear" : "0"
+            "contractYear" : "1"
           },
           "name" : "USC",
           "state" : "California"
